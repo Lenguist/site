@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Да.
+AI researcher and developer from Ukraine. Currently studying at Lawrenceville school, NJ, USA. 
