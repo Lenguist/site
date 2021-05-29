@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Lenguist
-description: This is a blog about my journey into AI and NLP
+description: AI blog
 github_username: Lenguist
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "site"
