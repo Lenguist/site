@@ -21,7 +21,7 @@ I initially got into AI through linguistics, when during Internal Linguistics Ol
 Besides from my AI/NLP passion, I also love swimming, chess and theater. Also, here is my [resume](../files/resume.pdf), if you are interested.
 
 ## Social media
-Github:@Lenguist
-Twitter:@Lenguist1
-Instagram:@maksym_bondarenko2018
+- Github:@Lenguist
+- Twitter:@Lenguist1
+- Instagram:@maksym_bondarenko2018
 
