@@ -1,22 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
-            "url": "https://lenguist.github.io/site/markdown/2020/01/14/test-markdown-post.html",
-            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
-            "date": " • Jan 14, 2020"
-        }
-        
-    
-  
 
   
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "About Me",
           "content": "Who am I? . My name is Maksym Bondarenko, and I am an international student from Ukraine graduating from the Lawrenceville School in 2022. I am passionate about artificial intelligence and natural language processing, and I plan to major in computer science in college. I have been programming for a little bit more than a year now, and I have found blog posts and tutorials written by other people to be incredibly helful in getting started with artificial intelligence and coding in general. For me, this blog is a way to showcase my work as well as to give back to future generatios of programmers the support I had received when starting up. . Why AI? . I believe in a couple of years AI will become as ubiquitous as internet is today, and I want to take part in shaping that future. I had grown up on sci-fi books, and I can now see how more and more of the fiction about AI comes true, both positive and negative. I think the best way to mitigate that risk is to make sure more and more people can build and use the technology, taking it out of the realm of improbable and into the mainstream. One thing I love about the field is that it is already very open, with leading companies like Gooogle, Facebook, and Open AI making their technology openly available to everyone. Coming from Ukraine though, I can see that there is still a huge difference in adoption of this techology in different communities, and I hope that by creating consumer products the technology can be normalized everyewhere across the world. . How did you get into AI? . I initially got into AI through linguistics, when during Internal Linguistics Olympiad in 2017 I have attended a lecture about word-embeddings in Dublin University. I really did not understand much back then, but the idea of simulating human language excited me, and after I took a 3-year long break to do physics, I have came back eager to learn more. Little did I know that by that time whatever I heard in the lecture in 2017 was incredibly outdated, and so I had to learn everything from scratch. But this is something I like about AI - it’s a constantly changing field, where anything is fluid and the state-of-the-art can be broken any day. . Anything else? . Besides from my AI/NLP passion, I also love swimming, chess and theater. Also, here is my resume, if you are interested. . Social media . Github:@Lenguist Twitter:@Lenguist1 Instagram:@maksym_bondarenko2018 .",
           "url": "https://lenguist.github.io/site/about/",
