@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lenguist.github.io/site/2020/01/28/AI-book-list.html</loc>
-<lastmod>2020-01-28T00:00:00-06:00</lastmod>
+<loc>https://lenguist.github.io/site/2021/01/11/AI-book-list.html</loc>
+<lastmod>2021-01-11T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://lenguist.github.io/site/allennlp/2021/06/04/simple-classifer.html</loc>
@@ -26,6 +26,6 @@
 </url>
 <url>
 <loc>https://lenguist.github.io/site/assets/resume.pdf</loc>
-<lastmod>2021-11-02T23:29:26-05:00</lastmod>
+<lastmod>2021-11-02T23:30:26-05:00</lastmod>
 </url>
 </urlset>
